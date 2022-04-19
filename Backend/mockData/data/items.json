@@ -6,7 +6,7 @@
     "tallaId": ["T02", "T03", "T04"],
     "categoriaId": "C04",
     "marcaId": "MC23",
-    "tipoId": "TR03",
+    "tipoId": ["TR03"],
     "fotos": [
       "https://i.pinimg.com/550x/29/de/72/29de72bcba3155f06c9fde289b562edb.jpg",
       "https://i.pinimg.com/236x/8f/4a/aa/8f4aaa5572cb774e844e91a842ad1180.jpg"
@@ -18,12 +18,12 @@
   },
   {
     "nombre": "Chaqueta Acolchada Con Bolsilos Delanteros Negro",
-    "idColor": "CL03",
+    "idColor": ["CL03"],
     "idGenero": "G01",
     "tallaId": ["T03"],
     "categoriaId": "C04",
     "marcaId": "MC25",
-    "tipoId": "TR03",
+    "tipoId": ["TR03"],
     "fotos": [
       "https://cd1.distincion.eu/wp-content/uploads/2019/03/p_RA5094_02_1_1.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_753653-MCO45158708939_032021-O.jpg",
@@ -41,7 +41,7 @@
     "tallaId": ["T02", "T03", "T04", "T05"],
     "categoriaId": "C04",
     "marcaId": "MC18",
-    "tipoId": "TR03",
+    "tipoId": ["TR03"],
     "fotos": [
       "https://http2.mlstatic.com/D_NQ_NP_973290-MLC28080747922_092018-O.jpg",
       "https://cdn.koaj.co/76446-home_default/chaqueta-de-jean.jpg",
@@ -59,7 +59,7 @@
     "tallaId": ["T02", "T03", "T05"],
     "categoriaId": "C04",
     "marcaId": "MC23",
-    "tipoId": "TR03",
+    "tipoId": ["TR03"],
     "fotos": [
       "https://http2.mlstatic.com/D_NQ_NP_789020-MCO31354498219_072019-O.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_699277-MCO41091964269_032020-O.jpg",
@@ -77,7 +77,7 @@
     "tallaId": ["T02", "T03", "T05"],
     "categoriaId": "C04",
     "marcaId": "MC23",
-    "tipoId": "TR03",
+    "tipoId": ["TR03"],
     "fotos": [
       "https://http2.mlstatic.com/D_NQ_NP_789020-MCO31354498219_072019-O.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_699277-MCO41091964269_032020-O.jpg",
@@ -95,7 +95,7 @@
     "tallaId": ["T02"],
     "categoriaId": "C04",
     "marcaId": "MC14",
-    "tipoId": "TR03",
+    "tipoId": ["TR03"],
     "fotos": [
       "https://http2.mlstatic.com/D_643133-MCO32498515408_102019-O.jpg",
       "https://http2.mlstatic.com/D_779547-MCO32498452999_102019-O.jpg",
@@ -108,12 +108,12 @@
   },
   {
     "nombre": "Buso Hoodie Chompa con estampado",
-    "idColor": "CL03",
+    "idColor": ["CL03"],
     "idGenero": "G01",
     "tallaId": ["T02"],
     "categoriaId": "C04",
     "marcaId": "MC14",
-    "tipoId": "TR03",
+    "tipoId": ["TR03"],
     "fotos": [
       "https://http2.mlstatic.com/D_NQ_NP_905988-MCO47068457268_082021-W.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_914671-MLA46166606126_052021-V.jpg"
@@ -130,7 +130,7 @@
     "tallaId": ["T02", "T03"],
     "categoriaId": "C04",
     "marcaId": "MC08",
-    "tipoId": "TR03",
+    "tipoId": ["TR03"],
     "fotos": [
       "https://www.bazzarbog.com/9137-large_default/buzo-cuello-redondo-tubo.jpg",
       "https://www.bazzarbog.com/9138-home_default/buzo-cuello-redondo-tubo.jpg",
@@ -148,7 +148,7 @@
     "tallaId": ["T02", "T03"],
     "categoriaId": "C04",
     "marcaId": "MC01",
-    "tipoId": "TR03",
+    "tipoId": ["TR03"],
     "fotos": [
       "https://d22fxaf9t8d39k.cloudfront.net/20d83dacb3e4d0572fac8680c69cc8e897e8bccafb98504f3d22babd428a512d35305.jpeg",
       "https://cdn.shopify.com/s/files/1/2026/4609/products/armani_exchange_armani_exchange_gildan_hoodie_on_man_black_zacaca_shop_usa_large_a2e59a34-457e-48eb-878a-fbbf32de1f5a_1512x.jpg?v=1496651804"
@@ -160,12 +160,12 @@
   },
   {
     "nombre": "Chaqueta en Dril con forro interno estampado",
-    "idColor": "CL09",
+    "idColor": ["CL09"],
     "idGenero": "G01",
     "tallaId": ["T02", "T03", "T04", "T05"],
     "categoriaId": "C04",
     "marcaId": "MC21",
-    "tipoId": "TR03",
+    "tipoId": ["TR03"],
     "fotos": [
       "https://exitocol.vtexassets.com/arquivos/ids/11077875-800-auto?v=637739926252730000&width=800&height=auto&aspect=true",
       "https://exitocol.vtexassets.com/arquivos/ids/11077873-800-auto?v=637739926252270000&width=800&height=auto&aspect=true",
@@ -179,12 +179,12 @@
   },
   {
     "nombre": "Chaqueta De Bombardero De Vuelo Con Soporte Informal De Primavera",
-    "idColor": "CL01",
+    "idColor": ["CL01"],
     "idGenero": "G01",
     "tallaId": ["T04", "T05"],
     "categoriaId": "C04",
     "marcaId": "MC18",
-    "tipoId": "TR03",
+    "tipoId": ["TR03"],
     "fotos": [
       "https://i.linio.com/p/3e1e4b8f900a9bb49a889e74e916d130-product.webp",
       "https://i.linio.com/p/e30a441c479e3fdc4d80871924eed4e9-product.webp",

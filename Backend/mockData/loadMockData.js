@@ -9,13 +9,13 @@ const tipoRopa = require("./data/tipoRopa.json");
 const {
   Category,
   Color,
-  Photo,
   Gender,
-  Item,
   Brand,
   Size,
   Clothing,
 } = require("../src/db.js");
+
+const createItem = require("../src/controllers/item/utils/createItem");
 
 //Lectura y Registro de Archivos en la BD
 
@@ -28,6 +28,10 @@ const loadMockData = async () => {
   await Brand.bulkCreate(marcas);
   await Size.bulkCreate(tallas);
   await Clothing.bulkCreate(tipoRopa);
+
+  for(let p of items){
+    await createItem(p);
+  }
 };
 
 module.exports = loadMockData;
