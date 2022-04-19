@@ -1,0 +1,22 @@
+[
+  {
+    "id": "TR01",
+    "tipo": "Clasico"
+  },
+  {
+    "id": "TR02",
+    "tipo": "Deportivo"
+  },
+  {
+    "id": "TR03",
+    "tipo": "Informal"
+  },
+  {
+    "id": "TR04",
+    "tipo": "Formal"
+  },
+  {
+    "id": "TR05",
+    "tipo": "Interior"
+  }
+]

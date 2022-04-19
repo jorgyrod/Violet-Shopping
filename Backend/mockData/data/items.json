@@ -1,0 +1,289 @@
+[
+  {
+    "nombre": "Chaqueta Acolchada Camuflada con bolsillos delanteros y cremallera en frente",
+    "idColor": ["CL01", "CL02"],
+    "idGenero": "G01",
+    "tallaId": ["T02", "T03", "T04"],
+    "categoriaId": "C04",
+    "marcaId": "MC23",
+    "tipoId": "TR03",
+    "fotos": [
+      "https://i.pinimg.com/550x/29/de/72/29de72bcba3155f06c9fde289b562edb.jpg",
+      "https://i.pinimg.com/236x/8f/4a/aa/8f4aaa5572cb774e844e91a842ad1180.jpg"
+    ],
+    "precio": 178000,
+    "descuento": 0,
+    "cantidad": 10,
+    "disponible": true
+  },
+  {
+    "nombre": "Chaqueta Acolchada Con Bolsilos Delanteros Negro",
+    "idColor": "CL03",
+    "idGenero": "G01",
+    "tallaId": ["T03"],
+    "categoriaId": "C04",
+    "marcaId": "MC25",
+    "tipoId": "TR03",
+    "fotos": [
+      "https://cd1.distincion.eu/wp-content/uploads/2019/03/p_RA5094_02_1_1.jpg",
+      "https://http2.mlstatic.com/D_NQ_NP_753653-MCO45158708939_032021-O.jpg",
+      "https://static.carrefour.es/hd_510x_/crs/cdn_static/catalog/hd/453081_04_1.jpg"
+    ],
+    "precio": 168000,
+    "descuento": 45,
+    "cantidad": 10,
+    "disponible": true
+  },
+  {
+    "nombre": "Chaqueta Jean Levi's Hombre",
+    "idColor": ["CL04", "CL05"],
+    "idGenero": "G01",
+    "tallaId": ["T02", "T03", "T04", "T05"],
+    "categoriaId": "C04",
+    "marcaId": "MC18",
+    "tipoId": "TR03",
+    "fotos": [
+      "https://http2.mlstatic.com/D_NQ_NP_973290-MLC28080747922_092018-O.jpg",
+      "https://cdn.koaj.co/76446-home_default/chaqueta-de-jean.jpg",
+      "https://static.dafiti.com.co/p/style-liq-9382-8694051-1-product.jpg"
+    ],
+    "precio": 119990,
+    "descuento": 25,
+    "cantidad": 10,
+    "disponible": true
+  },
+  {
+    "nombre": "Chaqueta Impermeable Rompevientos",
+    "idColor": ["CL03", "CL04", "CL06"],
+    "idGenero": "G01",
+    "tallaId": ["T02", "T03", "T05"],
+    "categoriaId": "C04",
+    "marcaId": "MC23",
+    "tipoId": "TR03",
+    "fotos": [
+      "https://http2.mlstatic.com/D_NQ_NP_789020-MCO31354498219_072019-O.jpg",
+      "https://http2.mlstatic.com/D_NQ_NP_699277-MCO41091964269_032020-O.jpg",
+      "https://i.linio.com/p/a3b6369deec4bd9758bd54ed69594b31-product.jpg"
+    ],
+    "precio": 144000,
+    "descuento": 0,
+    "cantidad": 10,
+    "disponible": true
+  },
+  {
+    "nombre": "Chaqueta Impermeable Rompevientos",
+    "idColor": ["CL03", "CL04", "CL06"],
+    "idGenero": "G01",
+    "tallaId": ["T02", "T03", "T05"],
+    "categoriaId": "C04",
+    "marcaId": "MC23",
+    "tipoId": "TR03",
+    "fotos": [
+      "https://http2.mlstatic.com/D_NQ_NP_789020-MCO31354498219_072019-O.jpg",
+      "https://http2.mlstatic.com/D_NQ_NP_699277-MCO41091964269_032020-O.jpg",
+      "https://i.linio.com/p/a3b6369deec4bd9758bd54ed69594b31-product.jpg"
+    ],
+    "precio": 144000,
+    "descuento": 0,
+    "cantidad": 10,
+    "disponible": true
+  },
+  {
+    "nombre": "Buso Hoodie Chompa Sin estampado",
+    "idColor": ["CL03", "CL02", "CL08"],
+    "idGenero": "G01",
+    "tallaId": ["T02"],
+    "categoriaId": "C04",
+    "marcaId": "MC14",
+    "tipoId": "TR03",
+    "fotos": [
+      "https://http2.mlstatic.com/D_643133-MCO32498515408_102019-O.jpg",
+      "https://http2.mlstatic.com/D_779547-MCO32498452999_102019-O.jpg",
+      "https://http2.mlstatic.com/D_711390-MCO32498539744_102019-O.jpg"
+    ],
+    "precio": 50800,
+    "descuento": 0,
+    "cantidad": 10,
+    "disponible": true
+  },
+  {
+    "nombre": "Buso Hoodie Chompa con estampado",
+    "idColor": "CL03",
+    "idGenero": "G01",
+    "tallaId": ["T02"],
+    "categoriaId": "C04",
+    "marcaId": "MC14",
+    "tipoId": "TR03",
+    "fotos": [
+      "https://http2.mlstatic.com/D_NQ_NP_905988-MCO47068457268_082021-W.jpg",
+      "https://http2.mlstatic.com/D_NQ_NP_914671-MLA46166606126_052021-V.jpg"
+    ],
+    "precio": 90800,
+    "descuento": 0,
+    "cantidad": 10,
+    "disponible": true
+  },
+  {
+    "nombre": "Buso Cuello Redondo Tubo",
+    "idColor": ["CL03", "Cl04"],
+    "idGenero": "G01",
+    "tallaId": ["T02", "T03"],
+    "categoriaId": "C04",
+    "marcaId": "MC08",
+    "tipoId": "TR03",
+    "fotos": [
+      "https://www.bazzarbog.com/9137-large_default/buzo-cuello-redondo-tubo.jpg",
+      "https://www.bazzarbog.com/9138-home_default/buzo-cuello-redondo-tubo.jpg",
+      "https://http2.mlstatic.com/D_NQ_NP_727076-CBT48889709068_012022-W.jpg"
+    ],
+    "precio": 120000,
+    "descuento": 15,
+    "cantidad": 8,
+    "disponible": true
+  },
+  {
+    "nombre": "Buso Chompa Armani Exchange",
+    "idColor": ["CL03", "Cl02"],
+    "idGenero": "G01",
+    "tallaId": ["T02", "T03"],
+    "categoriaId": "C04",
+    "marcaId": "MC01",
+    "tipoId": "TR03",
+    "fotos": [
+      "https://d22fxaf9t8d39k.cloudfront.net/20d83dacb3e4d0572fac8680c69cc8e897e8bccafb98504f3d22babd428a512d35305.jpeg",
+      "https://cdn.shopify.com/s/files/1/2026/4609/products/armani_exchange_armani_exchange_gildan_hoodie_on_man_black_zacaca_shop_usa_large_a2e59a34-457e-48eb-878a-fbbf32de1f5a_1512x.jpg?v=1496651804"
+    ],
+    "precio": 170000,
+    "descuento": 0,
+    "cantidad": 8,
+    "disponible": true
+  },
+  {
+    "nombre": "Chaqueta en Dril con forro interno estampado",
+    "idColor": "CL09",
+    "idGenero": "G01",
+    "tallaId": ["T02", "T03", "T04", "T05"],
+    "categoriaId": "C04",
+    "marcaId": "MC21",
+    "tipoId": "TR03",
+    "fotos": [
+      "https://exitocol.vtexassets.com/arquivos/ids/11077875-800-auto?v=637739926252730000&width=800&height=auto&aspect=true",
+      "https://exitocol.vtexassets.com/arquivos/ids/11077873-800-auto?v=637739926252270000&width=800&height=auto&aspect=true",
+      "https://exitocol.vtexassets.com/arquivos/ids/11077867-800-auto?v=637739926249600000&width=800&height=auto&aspect=true",
+      "https://exitocol.vtexassets.com/arquivos/ids/11077874-800-auto?v=637739926252600000&width=800&height=auto&aspect=true"
+    ],
+    "precio": 189000,
+    "descuento": 15,
+    "cantidad": 3,
+    "disponible": true
+  },
+  {
+    "nombre": "Chaqueta De Bombardero De Vuelo Con Soporte Informal De Primavera",
+    "idColor": "CL01",
+    "idGenero": "G01",
+    "tallaId": ["T04", "T05"],
+    "categoriaId": "C04",
+    "marcaId": "MC18",
+    "tipoId": "TR03",
+    "fotos": [
+      "https://i.linio.com/p/3e1e4b8f900a9bb49a889e74e916d130-product.webp",
+      "https://i.linio.com/p/e30a441c479e3fdc4d80871924eed4e9-product.webp",
+      "https://i.linio.com/p/039f382c9c2ef066ba375bd468bb86bb-product.webp"
+    ],
+    "precio": 186000,
+    "descuento": 7,
+    "cantidad": 8,
+    "disponible": true
+  },
+  {
+    "nombre": "Buzo con Cremallera",
+    "idColor": ["CL08", "CL05", "CL01"],
+    "idGenero": "G01",
+    "tallaId": ["T02", "T03"],
+    "categoriaId": "C04",
+    "tipoId": ["TR02", "TR03"],
+    "marcaId": "MC16",
+    "fotos": [
+      "https://qafacol.vteximg.com.br/arquivos/ids/462454-770-700/buzos-para-hombre-60060114-75270_1.jpg?v=637682977242900000"
+    ],
+    "precio": 157000,
+    "descuento": 0,
+    "cantidad": 8,
+    "disponible": true
+  },
+  {
+    "nombre": "Chaqueta Buzo Sudadera Algodon",
+    "idColor": ["CL11", "CL12", "CL13", "CL03", "CL04"],
+    "idGenero": "G01",
+    "tallaId": ["T02", "T03", "T04"],
+    "categoriaId": "C04",
+    "tipoId": ["TR02", "TR03"],
+    "marcaId": "MC15",
+    "fotos": [
+      "https://http2.mlstatic.com/D_NQ_NP_867120-MCO44907951203_022021-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_916050-MCO46724333601_072021-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_972053-MCO44907925773_022021-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_617134-MCO46559032213_062021-O.webp"
+    ],
+    "precio": 45900,
+    "descuento": 15,
+    "cantidad": 20,
+    "disponible": true
+  },
+  {
+    "nombre": "Chaqueta Deportiva de Invierdo con Capucha y cremallera",
+    "idColor": ["CL03", "CL04"],
+    "idGenero": "G01",
+    "tallaId": ["T03", "T04", "T05"],
+    "categoriaId": "C04",
+    "tipoId": ["TR02"],
+    "marcaId": "MC15",
+    "fotos": [
+      "https://ae01.alicdn.com/kf/He3899ad43411489ab1dbc7b9f70f9b5eh/Chaqueta-deportiva-de-invierno-para-hombre-Sudadera-con-capucha-y-cremallera-para-gimnasio-ropa-deportiva-para.jpg",
+      "https://ae01.alicdn.com/kf/HTB1DLdYbv1H3KVjSZFBq6zSMXXa6/Chaqueta-de-forro-polar-con-doble-cremallera-para-hombre-abrigo-c-lido-de-marca-Sudadera-con.jpg",
+      "https://ae01.alicdn.com/kf/HTB1G9NYbEKF3KVjSZFEq6xExFXaS.jpg?width=750&height=750&hash=1500"
+    ],
+    "precio": 81777,
+    "descuento": 25,
+    "cantidad": 10,
+    "disponible": true
+  },
+  {
+    "nombre": "Adidas Chaqueta Deportiva con Capucha para Hombre Blanca",
+    "idColor": ["CL02"],
+    "idGenero": "G01",
+    "tallaId": ["T02", "T03", "T04", "T05"],
+    "categoriaId": "C04",
+    "tipoId": ["TR02"],
+    "marcaId": "MC13",
+    "fotos": [
+      "https://ae01.alicdn.com/kf/H632af713437e4cd1b17e002fac3c2eeeu/Adidas-chaqueta-deportiva-con-capucha-para-hombre-ropa-deportiva-para-correr-JKT-Original-novedad.jpg_Q90.jpg_.webp",
+      "https://ae01.alicdn.com/kf/H6566d33032a54b8883bdb0cc28506e29Y/Adidas-chaqueta-deportiva-con-capucha-para-hombre-ropa-deportiva-para-correr-JKT-Original-novedad.jpg_50x50.jpg_.webp",
+      "https://ae01.alicdn.com/kf/H16cc8261919e453580d12195dda6f219f/Adidas-chaqueta-deportiva-con-capucha-para-hombre-ropa-deportiva-para-correr-JKT-Original-novedad.jpg_50x50.jpg_.webp",
+      "https://ae01.alicdn.com/kf/Hf3fb377b19704d139fad4f36614ee4c4J/Adidas-chaqueta-deportiva-con-capucha-para-hombre-ropa-deportiva-para-correr-JKT-Original-novedad.jpg_50x50.jpg_.webp",
+      "https://ae01.alicdn.com/kf/H4f6054b9b95d46a08cb6ba9afd6e9c973/Adidas-chaqueta-deportiva-con-capucha-para-hombre-ropa-deportiva-para-correr-JKT-Original-novedad.jpg_50x50.jpg_.webp"
+    ],
+    "precio": 538308,
+    "descuento": 32,
+    "cantidad": 10,
+    "disponible": true
+  },
+  {
+    "nombre": "Chaqueta de béisbol para hombre, abrigos de piel sintética bordados, cazadora de piloto de lujo de lana de corte delgado, rebeca de cuello alto, ropa de abrigo",
+    "idColor": ["CL14", "CL12", "CL02"],
+    "idGenero": "G01",
+    "tallaId": ["T02", "T03", "T04", "T05"],
+    "categoriaId": "C04",
+    "tipoId": ["TR03"],
+    "marcaId": "MC15",
+    "fotos": [
+      "https://ae01.alicdn.com/kf/H4c0cde14b3614b779c9941e56c6090693/Chaqueta-de-b-isbol-para-hombre-abrigos-de-piel-sint-tica-bordados-cazadora-de-piloto-de.jpg_Q90.jpg_.webp",
+      "https://ae01.alicdn.com/kf/H3a99b3472ec14464b0e3e85697462a8fE/Chaqueta-de-b-isbol-para-hombre-abrigos-de-piel-sint-tica-bordados-cazadora-de-piloto-de.jpg_50x50.jpg_.webp",
+      "https://ae01.alicdn.com/kf/H6bb1457113bb4df2831e7129b1190d1aI/Chaqueta-de-b-isbol-para-hombre-abrigos-de-piel-sint-tica-bordados-cazadora-de-piloto-de.jpg_50x50.jpg_.webp"
+    ],
+    "precio": 243231,
+    "descuento": 46,
+    "cantidad": 10,
+    "disponible": true
+  }
+]

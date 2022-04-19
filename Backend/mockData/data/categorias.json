@@ -1,0 +1,46 @@
+[
+  {
+    "id": "C01",
+    "categoria": "Jeans"
+  },
+  {
+    "id": "C02",
+    "categoria": "Camisetas"
+  },
+  {
+    "id": "C03",
+    "categoria": "Camisas"
+  },
+  {
+    "id": "C04",
+    "categoria": "Buzos y Chaquetas"
+  },
+  {
+    "id": "C05",
+    "categoria": "Pantalones"
+  },
+  {
+    "id": "C06",
+    "categoria": "Bermudas - Pantalonetas"
+  },
+  {
+    "id": "C07",
+    "categoria": "Accesorios"
+  },
+  {
+    "id": "C08",
+    "categoria": "Vestidos"
+  },
+  {
+    "id": "C09",
+    "categoria": "Faldas"
+  },
+  {
+    "id": "C10",
+    "categoria": "Pijamas"
+  },
+  {
+    "id": "C11",
+    "categoria": "Ropa Interior"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "CL01",
+    "color": "Verde"
+  },
+  {
+    "id": "CL02",
+    "color": "Blanco"
+  },
+  {
+    "id": "CL03",
+    "color": "Negro"
+  },
+  {
+    "id": "CL04",
+    "color": "Azul"
+  },
+  {
+    "id": "CL05",
+    "color": "Azul Claro"
+  },
+  {
+    "id": "CL06",
+    "color": "Vinotinto"
+  },
+  {
+    "id": "CL07",
+    "color": "Cafe"
+  },
+  {
+    "id": "CL08",
+    "color": "Rosa"
+  },
+  {
+    "id": "CL09",
+    "color": "Salmon"
+  },
+  {
+    "id": "CL10",
+    "color": "Caqui"
+  },
+  {
+    "id": "CL11",
+    "color": "Gris"
+  },
+  {
+    "id": "CL12",
+    "color": "Rojo"
+  },
+  {
+    "id": "CL13",
+    "color": "Amarillo Mostaza"
+  },
+  {
+    "id": "CL14",
+    "color": "Amarillo"
+  }
+]

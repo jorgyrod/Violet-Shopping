@@ -1,0 +1,102 @@
+[
+  {
+    "id": "MC01",
+    "marca": "Armani"
+  },
+  {
+    "id": "MC02",
+    "marca": "Dior"
+  },
+  {
+    "id": "MC03",
+    "marca": "MaxMara"
+  },
+  {
+    "id": "MC04",
+    "marca": "Lanvin Paris"
+  },
+  {
+    "id": "MC05",
+    "marca": "Chloé"
+  },
+  {
+    "id": "MC06",
+    "marca": "Hermes Paris"
+  },
+  {
+    "id": "MC07",
+    "marca": "Vogue"
+  },
+  {
+    "id": "MC08",
+    "marca": "Prada"
+  },
+  {
+    "id": "MC09",
+    "marca": "Louis Vuitton"
+  },
+  {
+    "id": "MC10",
+    "marca": "Gucci"
+  },
+  {
+    "id": "MC11",
+    "marca": "Oscar de la Renta"
+  },
+  {
+    "id": "MC12",
+    "marca": "Nike"
+  },
+  {
+    "id": "MC13",
+    "marca": "Adidas"
+  },
+  {
+    "id": "MC14",
+    "marca": "Zara"
+  },
+  {
+    "id": "MC15",
+    "marca": "GAP"
+  },
+  {
+    "id": "MC16",
+    "marca": "Puma"
+  },
+  {
+    "id": "MC17",
+    "marca": "Lauren Ralph Lauren"
+  },
+  {
+    "id": "MC18",
+    "marca": "Levi's"
+  },
+  {
+    "id": "MC19",
+    "marca": "Calvin Klein"
+  },
+  {
+    "id": "MC20",
+    "marca": "Lacoste"
+  },
+  {
+    "id": "MC21",
+    "marca": "Alfani"
+  },
+  {
+    "id": "MC22",
+    "marca": "Lee"
+  },
+  {
+    "id": "MC23",
+    "marca": "PatPrimo"
+  },
+  {
+    "id": "MC24",
+    "marca": "Seven Seven"
+  },
+  {
+    "id": "MC25",
+    "marca": "KOAJ"
+  }
+]
