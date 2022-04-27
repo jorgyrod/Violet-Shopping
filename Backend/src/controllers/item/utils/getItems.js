@@ -9,8 +9,9 @@ const {
   Clothing,
 } = require("../../../db");
 
-const getItems = async () => {
+const getItems = async (condicion) => {
   const items = await Item.findAll({
+    ...condicion,
     attributes: [
       "id",
       "nombre",
